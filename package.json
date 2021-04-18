@@ -17,6 +17,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
+    "cli": "^1.0.1",
     "jquery": "^3.6.0"
   }
 }
